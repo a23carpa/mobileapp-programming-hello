@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">Hello</string>
+    <string name="app_name">Well well well</string>
+    <string name="text_field">GAME OVER</string>
+
 </resources>

@@ -1,7 +1,7 @@
 # Rapport
 Innuti string.xml så ändrade jag valuet i variablen "app_name" till "Well well well <br />
-samt som det skapades en ny string med namnet "text_field" och innehållet "GAME OVER"
-Värderna innuti AndroidManifest.xml vart app_name tidigare var ändrades till "text_field"
+samt som det skapades en ny string med namnet "text_field" och innehållet "GAME OVER"  <br />
+Värderna innuti AndroidManifest.xml vart app_name tidigare var ändrades till "text_field"  <br />
 
 Screenshot togs av startsidan och lades i mappen screenshot
 

@@ -13,6 +13,6 @@ string.xml
 </resources>
 
 ```
-
+.
 ![](Screenshot_20240325_140404.png)
 
